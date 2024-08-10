@@ -1,0 +1,43 @@
+.para{
+ color: burlywood;
+ background-color: chartreuse;
+
+}
+
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: brown;
+}
+
+h2{
+    color: darkblue;
+}
+
+button{
+    color: rgb(0, 0, 0);
+    border: 2 ;
+    background-color: rgb(6, 255, 168);
+}
+
+#heading2{
+    background-color: crimson;
+    color: aliceblue;
+}
+#heading{
+    visibility: hidden;
+}
+
+#di{
+    background-color: cadetblue;
+    width: 100px;
+    height: 200px;
+    border: 2px solid black
+
+}
+.para{
+    background-color: chartreuse;
+    
+}
